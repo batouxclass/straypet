@@ -1,0 +1,10 @@
+io/odreria/straypet/ui/model/LocationService.class
+io/odreria/straypet/ui/view/ClassifiedPet.class
+io/odreria/straypet/ui/view/ReelPet.class
+io/odreria/straypet/ui/model/Classified.class
+io/odreria/straypet/ui/model/ClassifiedService.class
+io/odreria/straypet/ui/MainView.class
+io/odreria/map/OdreMap.class
+io/odreria/map/OdreMapBuilder.class
+io/odreria/straypet/ui/model/Location.class
+io/odreria/map/Center.class
