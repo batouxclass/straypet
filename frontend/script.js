@@ -7,7 +7,7 @@ window.initialize = function(
          _bearing,
          _antialias) {
 
-        mapboxgl.accessToken = 'pk.eyJ1IjoiYXJrYW50b3NkZmMxIiwiYSI6ImNrM2ZiY2Z2dzAweTQzb280ZzlsNDRxZDgifQ.nJ1w2oLWeQ2Aj4vRV4pX0w';
+        mapboxgl.accessToken = '<VALUE>';
 
         var map = new mapboxgl.Map({
             container: _container,

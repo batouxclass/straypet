@@ -79,7 +79,7 @@ public class MainView extends HorizontalLayout implements RouterLayout, PageConf
         OdreMapBuilder odreMapBuilder =
                 new OdreMapBuilder(
                     "map",
-                    "mapbox://styles/arkantosdfc1/ck3uihcfi0p1q1cqmpo61tl1g");
+                    "<VALUE>");
      
         map = odreMapBuilder.build();
         map.addNavigationControl();
